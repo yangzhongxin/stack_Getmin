@@ -1,0 +1,6 @@
+D:\VsProject\testStack\testStack\bin\Debug\testStack.exe.config
+D:\VsProject\testStack\testStack\bin\Debug\testStack.exe
+D:\VsProject\testStack\testStack\bin\Debug\testStack.pdb
+D:\VsProject\testStack\testStack\obj\Debug\testStack.csprojResolveAssemblyReference.cache
+D:\VsProject\testStack\testStack\obj\Debug\testStack.exe
+D:\VsProject\testStack\testStack\obj\Debug\testStack.pdb
